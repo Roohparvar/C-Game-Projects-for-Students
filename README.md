@@ -10,6 +10,12 @@ In this game, the computer generates a random number, and the player must guess 
 
 ---
 
+## 2. Tic-Tac-Toe Game
+
+Tic-Tac-Toe is a two-player game where each player tries to get three of their marks in a row, either horizontally, vertically, or diagonally.
+
+---
+
 ## Contributing
 
 Feel free to fork this repository and submit pull requests to add new features, fix bugs, or improve the code!
