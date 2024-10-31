@@ -30,6 +30,6 @@ A C version of the classic Minesweeper game where the player must clear a board 
 
 ## Contributing
 
-Feel free to fork this repository and submit pull requests to add new features, fix bugs, or improve the code!
+Feel free to fork this repository and submit pull requests to add new features, fix bugs, or improve the codes!
 
 ---
